@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\controllers\\moviepostlikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\controllers\\moviepostlikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\models\\domain\\moviepostlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\models\\domain\\moviepostlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\migrations\\20240529104805_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\migrations\\20240529104805_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\data\\moviegramdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\data\\moviegramdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\repositories\\imoviepostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\repositories\\imoviepostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\repositories\\moviepostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\repositories\\moviepostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\models\\viewmodels\\moviedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\models\\viewmodels\\moviedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\models\\viewmodels\\moviecomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\models\\viewmodels\\moviecomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\repositories\\moviepostcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\repositories\\moviepostcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\repositories\\imoviepostcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\repositories\\imoviepostcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\models\\domain\\moviepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\models\\domain\\moviepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\models\\domain\\moviepostcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\models\\domain\\moviepostcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\models\\viewmodels\\addlikerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\models\\viewmodels\\addlikerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|c:\\users\\lenovo\\source\\repos\\moviegram\\moviegram\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{544C254D-3DF6-4418-88EC-25B4B7743536}|Moviegram\\Moviegram.csproj|solutionrelative:moviegram\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\appsettings.json",
+              "RelativeDocumentMoniker": "Moviegram\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\appsettings.json",
+              "RelativeToolTip": "Moviegram\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T10:40:36.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminTagsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Controllers\\AdminTagsController.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Controllers\\AdminTagsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Controllers\\AdminTagsController.cs",
+              "RelativeToolTip": "Moviegram\\Controllers\\AdminTagsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:36:17.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Program.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Program.cs",
+              "RelativeToolTip": "Moviegram\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:03:56.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviePostLikeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Controllers\\MoviePostLikeController.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Controllers\\MoviePostLikeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Controllers\\MoviePostLikeController.cs",
+              "RelativeToolTip": "Moviegram\\Controllers\\MoviePostLikeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:16:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviegramDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Data\\MoviegramDbContext.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Data\\MoviegramDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Data\\MoviegramDbContext.cs",
+              "RelativeToolTip": "Moviegram\\Data\\MoviegramDbContext.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwE4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:01:06.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Moviegram\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Moviegram\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAMwIEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:12:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240529104805_initial.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Migrations\\20240529104805_initial.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Migrations\\20240529104805_initial.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Migrations\\20240529104805_initial.cs",
+              "RelativeToolTip": "Moviegram\\Migrations\\20240529104805_initial.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAQwPQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:48:05.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Moviegram\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:30:17.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviePostLike.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\Domain\\MoviePostLike.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Models\\Domain\\MoviePostLike.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\Domain\\MoviePostLike.cs",
+              "RelativeToolTip": "Moviegram\\Models\\Domain\\MoviePostLike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:03:59.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Repositories\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\ITagRepository.cs",
+              "RelativeToolTip": "Moviegram\\Repositories\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:45:45.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Moviegram\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Moviegram\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:07:13.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Moviegram\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Moviegram\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T16:34:00.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMoviePostLikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\IMoviePostLikeRepository.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Repositories\\IMoviePostLikeRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\IMoviePostLikeRepository.cs",
+              "RelativeToolTip": "Moviegram\\Repositories\\IMoviePostLikeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:48:09.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MoviePostLikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\MoviePostLikeRepository.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Repositories\\MoviePostLikeRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\MoviePostLikeRepository.cs",
+              "RelativeToolTip": "Moviegram\\Repositories\\MoviePostLikeRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:19:00.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\MovieDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Models\\ViewModels\\MovieDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\MovieDetailsViewModel.cs",
+              "RelativeToolTip": "Moviegram\\Models\\ViewModels\\MovieDetailsViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:26:21.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MoviePostCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\MoviePostCommentRepository.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Repositories\\MoviePostCommentRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\MoviePostCommentRepository.cs",
+              "RelativeToolTip": "Moviegram\\Repositories\\MoviePostCommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:42:02.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Moviegram\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwEQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:41:51.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieComment.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\MovieComment.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Models\\ViewModels\\MovieComment.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\MovieComment.cs",
+              "RelativeToolTip": "Moviegram\\Models\\ViewModels\\MovieComment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:09:32.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMoviePostCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\IMoviePostCommentRepository.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Repositories\\IMoviePostCommentRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Repositories\\IMoviePostCommentRepository.cs",
+              "RelativeToolTip": "Moviegram\\Repositories\\IMoviePostCommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:11:23.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MoviePostComment.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\Domain\\MoviePostComment.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Models\\Domain\\MoviePostComment.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\Domain\\MoviePostComment.cs",
+              "RelativeToolTip": "Moviegram\\Models\\Domain\\MoviePostComment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:12:40.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MoviePost.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\Domain\\MoviePost.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Models\\Domain\\MoviePost.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\Domain\\MoviePost.cs",
+              "RelativeToolTip": "Moviegram\\Models\\Domain\\MoviePost.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:05:18.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddLikeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\AddLikeRequest.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Models\\ViewModels\\AddLikeRequest.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\AddLikeRequest.cs",
+              "RelativeToolTip": "Moviegram\\Models\\ViewModels\\AddLikeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:47:39.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Moviegram\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Moviegram\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T16:45:37.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Moviegram\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:36:22.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Moviegram\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Moviegram\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T18:29:16.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Moviegram\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Moviegram\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:17:16.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Moviegram\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Moviegram\\Moviegram\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Moviegram\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T07:23:23.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

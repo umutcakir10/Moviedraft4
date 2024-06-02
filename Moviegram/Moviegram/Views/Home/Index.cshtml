@@ -1,0 +1,99 @@
+﻿@model Moviegram.Models.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="container col-xxl-8 px-4 py-5">
+    <div class="row align-items-center g-5 py-5">
+        <div class="col-12 col-lg-6 order-lg-last">
+            <h1 class="display-5 fw-bold lh-1 mb-3" style="color: gold;">
+                MOVIEGRAM TR
+            </h1>
+            <p class="lead">
+                Just grab your coffee and join Moviegram to be part of the movie universe.
+                Take a look at the movies, get information and make contribution.
+                If you have not registered yet, register now and join us. Now it's the right time.
+                BE A MOVIEGRAMER!
+            </p>
+        </div>
+        <div class="col-12 col-lg-6 order-lg-first">
+            <img src="https://caffeaiello.it/wp-content/uploads/2020/07/caffe-cinema.jpeg"
+                 alt="MOVIEGRAM"
+                 class="d-block mx-lg-auto img-fluid" width="100%" height="auto" />
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-6 d-flex">
+            @if (Model != null && Model.Tags.Any())
+            {
+                foreach (var tag in Model.Tags)
+                {
+                    <span class="badge bg-dark me-1">
+                        @tag.Name
+                    </span>
+                }
+            }
+        </div>
+    </div>
+
+</div>
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            @if (Model != null && Model.MoviePosts.Any())
+            {
+                foreach (var moviePost in Model.MoviePosts)
+                {
+                    <div class="mb-5 bg-light box-shadow p-4">
+                        <img src="@moviePost.FeaturedImageUrl" alt="@moviePost.Heading"
+                            class="mb-2 d-block img-fluid"/>
+                        <h2 class="mb-4">@moviePost.Heading</h2>
+                        <p class="mb-2">
+                            Author: @moviePost.Author
+                            <br />
+                            Published Date: @moviePost.PublishedDate.ToShortDateString()
+                        </p>
+
+                        <p class="mb-4">
+                            @foreach (var tag in moviePost.Tags)
+                            {
+                                <span class="badge bg-secondary me-1">@tag.Name</span>
+                            }
+                        </p>
+
+                        <p class="mb-5">@moviePost.ShortDescription</p>
+
+                        <a class="btn btn-dark"
+                            asp-area=""
+                            asp-controller="Movies"
+                            asp-action="Index"
+                            asp-route-urlHandle="@moviePost.UrlHandle"
+                            >Take a look</a>
+                    </div>
+                }
+                
+            }
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
